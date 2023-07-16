@@ -1,5 +1,5 @@
 # Tally App Challenge
-In this challenge, you will be recreating the Tally App example using the Lit Framework. The goal is to demonstrate your proficiency with the Lit Framework and handle explicit states of the counter, including:
+In this challenge, you will be recreating the Tally Count App example using the Lit Framework. The goal is to demonstrate your proficiency with the Lit Framework and handle explicit states of the counter, including:
 
 - Normal state
 - Minimum reached state
